@@ -18,7 +18,7 @@ organizations:
   url: "https://www.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Nonparametric Bayes.
+bio: ""
 
 interests:
 - Bayesian method for complex objects
